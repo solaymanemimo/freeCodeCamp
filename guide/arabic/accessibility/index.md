@@ -25,3 +25,4 @@ localeTitle: إمكانية الوصول
 ### معلومات اكثر:
 
 [مقدمة w3.org لإمكانية الوصول.](https://www.w3.org/WAI/intro/accessibility.php) [مشروع A11Y](http://a11yproject.com/)
+تفضل بزيازتنا 
